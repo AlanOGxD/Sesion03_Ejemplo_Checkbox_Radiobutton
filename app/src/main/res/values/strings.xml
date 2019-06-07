@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sesion03_Ejemplo_Checkbox_Radiobutton</string>
+
+
+
+    <string name="txt_lbl_primer_numero">Ingresa un numero:</string>
+    <string name="txt_lbl_segundo_numero">Ingresa otro numero:</string>
+    <string name="txt_lbl_resultado">RESULTADO:</string>
+
+
+    <string name="txt_hint_cajas_numeros">Solo numeros</string>
+    <string name="txt_hint_caja_resultado"> </string>
+
+    <string name="txt_radio_sumar"> + </string>
+    <string name="txt_radio_restar"> - </string>
+    <string name="txt_radio_multiplicar"> * </string>
+    <string name="txt_radio_dividir"> / </string>
+
+    <string name="txt_btn_procesar">PROCESAR</string>
+
+    <string name="txt_chk_redondear">Redondear</string>
+    <string name="txt_chk_negrita">Negrita</string>
+    <string name="txt_chk_cursiva">Cursiva</string>
+
+</resources>
